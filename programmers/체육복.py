@@ -1,3 +1,5 @@
+# 체육복
+
 def solution(n, lost, reserve):
     answer = 0
     a = set(lost) - set(reserve)
